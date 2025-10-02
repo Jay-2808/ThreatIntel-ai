@@ -1,0 +1,6 @@
+flask
+psycopg2-binary
+elasticsearch
+openai
+torch
+tensorflow
